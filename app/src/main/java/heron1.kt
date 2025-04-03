@@ -11,7 +11,7 @@ fun main() {
     heron(0.001,0.002,0.004) // Test dla malych wartosci
 
 }
-    // Funkcja obliczająca pole trojkata za pomoca wzoru Herona, przyjmuje tylko liczby zmiennoprzecinkowe
+    // Funkcja obliczajaca pole trojkata za pomoca wzoru Herona, przyjmuje tylko liczby zmiennoprzecinkowe
     fun heron(a: Double, b: Double, c: Double) {
         // Sprawdzenie czy wszystkie boki sa wieksze, badz rowne zero
         if (a <= 0 || b <= 0 || c <= 0) {

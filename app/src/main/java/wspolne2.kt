@@ -1,6 +1,6 @@
 // zadanie 2
 // autor: Klara Sebzda
-// zrodlo: https://4programmers.net/Forum/Java/360986-algorytm_wyznaczania_czesci_wspolnej_dwoch_list
+
 
 fun main() {
     // przeprowadzono test dla nastepujacych przypadkow:
