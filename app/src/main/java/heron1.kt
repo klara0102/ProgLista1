@@ -31,7 +31,7 @@ fun main() {
         val pole = kotlin.math.sqrt(s * (s - a) * (s - b) * (s - c))
 
         // Wyswietlanie wyniku
-        println("Pole trójkąta: $pole")
+        println("Pole trojkata: $pole")
     }
 
 
